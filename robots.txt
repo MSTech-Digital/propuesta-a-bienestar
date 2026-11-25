@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# PENDIENTE: reemplazar por el dominio definitivo
+Sitemap: https://www.dominio-pendiente.com/sitemap.xml
